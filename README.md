@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Testimonial-Grid-Section on Github.com](https://github.com/ashkir004/Testimonials-Grid-Section)
+- Live Site URL: [Testimonial-Grid-Section on Netlify.app](https://testimonials-grid-section-ashkir004-netlify.com)
 
 ## My process
 
