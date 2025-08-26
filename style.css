@@ -14,7 +14,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0;
     font-family: 'Barlow Semi Condensed', sans-serif;
-    background-color: var(--primary-purple-50);
+    background-color: var(--background);
     padding: 0 1rem;
 }
 
@@ -31,6 +31,7 @@ body {
     --neutral-grey-500: #48556A;
     --neutral-dark-blue: #19202D;
     --neutral-black: #121212;
+    --background: #F6F5F6;
 
     /* SPACING */
     --space-50: calc(4 / 16 * 1rem); 
